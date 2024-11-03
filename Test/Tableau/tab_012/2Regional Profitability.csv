@@ -1,0 +1,9 @@
+Discount Status,In / Out of Discounted Order IDs,Region,Avg. Discount,Profit
+Discounted,In,West,23.60%,"$31,897"
+Discounted,In,East,29.60%,"-$13,837"
+Discounted,In,South,29.30%,"-$16,254"
+Discounted,In,Central,37.30%,"-$36,405"
+Non Discounted,Out,West,0.00%,"$76,489"
+Non Discounted,Out,East,0.00%,"$105,358"
+Non Discounted,Out,South,0.00%,"$62,975"
+Non Discounted,Out,Central,0.00%,"$76,124"

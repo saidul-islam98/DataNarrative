@@ -1,0 +1,148 @@
+In / Out of Negative Profit Countries,Country,Avg. Discount,Number of Records,[Number of discounts]/COUNT([Discount])
+Negative,Nigeria,1,905,1
+Negative,Kazakhstan,1,101,1
+Negative,Zimbabwe,1,80,1
+Negative,United Arab Emirates,1,14,1
+Negative,Lithuania,1,50,1
+Negative,Tajikistan,1,3,1
+Negative,Turkmenistan,1,25,1
+Negative,Uganda,1,37,1
+Negative,Yemen,1,30,1
+Negative,Turkey,1,"1,378",1
+Negative,Sweden,1,203,1
+Negative,Denmark,1,65,1
+Negative,Ireland,1,106,1
+Negative,Portugal,1,70,1
+Negative,Netherlands,0,435,1
+Negative,South Korea,0,172,1
+Negative,Pakistan,0,249,1
+Negative,Haiti,0,104,1
+Negative,Argentina,0,390,1
+Negative,Papua New Guinea,0,22,1
+Negative,Venezuela,0,194,1
+Negative,Peru,0,162,1
+Negative,Honduras,0,713,1
+Negative,Panama,0,388,1
+Negative,Thailand,0,295,1
+Negative,Philippines,0,681,1
+Negative,Dominican Republic,0,742,1
+Negative,Vietnam,0,265,1
+Negative,Myanmar (Burma),0,136,1
+Positive,Indonesia,0,"1,390",1
+Positive,New Zealand,0,628,0
+Positive,United States,0,"9,994",1
+Positive,Brazil,0,"1,599",0
+Positive,Australia,0,"2,837",1
+Positive,Italy,0,"1,108",0
+Positive,Trinidad and Tobago,0,30,0
+Positive,Syria,0,29,0
+Positive,France,0,"2,827",0
+Positive,United Kingdom,0,"1,633",0
+Positive,Mexico,0,"2,644",0
+Positive,Germany,0,"2,065",0
+Positive,Spain,0,859,0
+Positive,Japan,0,250,0
+Positive,Tanzania,0,148,0
+Positive,India,0,"1,555",0
+Positive,China,0,"1,880",0
+Positive,Mongolia,0,37,0
+Positive,Ecuador,0,56,0
+Positive,Uruguay,0,24,0
+Positive,Bolivia,0,48,0
+Positive,El Salvador,0,736,0
+Positive,Guatemala,0,521,0
+Positive,Colombia,0,360,0
+Positive,Nicaragua,0,614,0
+Positive,Chile,0,143,0
+Positive,Barbados,0,26,0
+Positive,Paraguay,0,12,0
+Positive,Cuba,0,724,0
+Positive,Martinique,0,25,0
+Positive,Jamaica,0,31,0
+Positive,Afghanistan,0,55,0
+Positive,Albania,0,16,0
+Positive,Algeria,0,196,0
+Positive,Angola,0,122,0
+Positive,Armenia,0,3,0
+Positive,Austria,0,331,0
+Positive,Azerbaijan,0,29,0
+Positive,Bahrain,0,2,0
+Positive,Bangladesh,0,163,0
+Positive,Belarus,0,80,0
+Positive,Belgium,0,147,0
+Positive,Benin,0,35,0
+Positive,Bosnia and Herzegovina,0,17,0
+Positive,Bulgaria,0,75,0
+Positive,Burundi,0,2,0
+Positive,Cambodia,0,45,0
+Positive,Cameroon,0,110,0
+Positive,Canada,0,384,0
+Positive,Central African Republic,0,7,0
+Positive,Chad,0,2,0
+Positive,Cote d'Ivoire,0,109,0
+Positive,Croatia,0,32,0
+Positive,Czech Republic,0,71,0
+Positive,Democratic Republic of the Congo,0,379,0
+Positive,Djibouti,0,12,0
+Positive,Egypt,0,487,0
+Positive,Equatorial Guinea,0,3,0
+Positive,Eritrea,0,2,0
+Positive,Estonia,0,13,0
+Positive,Ethiopia,0,7,0
+Positive,Finland,0,64,0
+Positive,Gabon,0,14,0
+Positive,Georgia,0,33,0
+Positive,Ghana,0,102,0
+Positive,Guadeloupe,0,8,0
+Positive,Guinea,0,18,0
+Positive,Guinea-Bissau,0,9,0
+Positive,Hong Kong,0,21,0
+Positive,Hungary,0,66,0
+Positive,Iran,0,607,0
+Positive,Iraq,0,388,0
+Positive,Israel,0,103,0
+Positive,Jordan,0,42,0
+Positive,Kenya,0,98,0
+Positive,Kyrgyzstan,0,40,0
+Positive,Lebanon,0,12,0
+Positive,Lesotho,0,6,0
+Positive,Liberia,0,15,0
+Positive,Libya,0,39,0
+Positive,Macedonia,0,4,0
+Positive,Madagascar,0,56,0
+Positive,Malaysia,0,176,0
+Positive,Mali,0,43,0
+Positive,Mauritania,0,10,0
+Positive,Moldova,0,39,0
+Positive,Montenegro,0,4,0
+Positive,Morocco,0,451,0
+Positive,Mozambique,0,94,0
+Positive,Namibia,0,9,0
+Positive,Nepal,0,19,0
+Positive,Niger,0,43,0
+Positive,Norway,0,70,0
+Positive,Poland,0,252,0
+Positive,Qatar,0,16,0
+Positive,Republic of the Congo,0,6,0
+Positive,Romania,0,173,0
+Positive,Russia,0,384,0
+Positive,Rwanda,0,36,0
+Positive,Saudi Arabia,0,361,0
+Positive,Senegal,0,112,0
+Positive,Sierra Leone,0,15,0
+Positive,Singapore,0,141,0
+Positive,Slovakia,0,8,0
+Positive,Slovenia,0,3,0
+Positive,Somalia,0,52,0
+Positive,South Africa,0,461,0
+Positive,South Sudan,0,2,0
+Positive,Sri Lanka,0,7,0
+Positive,Sudan,0,92,0
+Positive,Swaziland,0,2,0
+Positive,Switzerland,0,78,0
+Positive,Taiwan,0,14,0
+Positive,Togo,0,44,0
+Positive,Tunisia,0,13,0
+Positive,Ukraine,0,381,0
+Positive,Uzbekistan,0,48,0
+Positive,Zambia,0,102,0

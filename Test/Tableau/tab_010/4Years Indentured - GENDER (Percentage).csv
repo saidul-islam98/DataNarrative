@@ -1,0 +1,26 @@
+,,,,Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin),Total Years Indentured (bin)
+,,,,< 1,1.3,2.6,3.9,5.2,6.5,7.8,9.1,10.4,11.7,13,14.3,15.6,16.9,18.2,19.5,26
+Female,FALSE,Servant,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",0.96%,4.82%,15.64%,40.04%,7.44%,6.06%,3.24%,1.59%,,,,,,,,,
+Female,FALSE,Servant,Number of Records,14,70,227,581,108,88,47,23,,,,,,,,,
+Female,FALSE,Apprentice,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",0.28%,0.90%,1.52%,2.27%,1.93%,1.93%,2.76%,2.07%,,,,,,,,,
+Female,FALSE,Apprentice,Number of Records,4,13,22,33,28,28,40,30,,,,,,,,,
+Female,TRUE,Servant,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,,0.90%,0.34%,0.07%,0.14%,0.07%,,,0.07%
+Female,TRUE,Servant,Number of Records,,,,,,,,,,13,5,1,2,1,,,1
+Female,TRUE,Apprentice,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,,0.90%,1.10%,0.21%,,0.07%,,,
+Female,TRUE,Apprentice,Number of Records,,,,,,,,,,13,16,3,,1,,,
+Female,*,Servant,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,0.83%,,,,,,,,
+Female,*,Servant,Number of Records,,,,,,,,,12,,,,,,,,
+Female,*,Apprentice,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,1.86%,,,,,,,,
+Female,*,Apprentice,Number of Records,,,,,,,,,27,,,,,,,,
+Male,FALSE,Servant,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",3.24%,9.32%,16.78%,29.40%,5.80%,4.09%,2.64%,0.84%,,,,,,,,,
+Male,FALSE,Servant,Number of Records,119,342,616,"1,079",213,150,97,31,,,,,,,,,
+Male,FALSE,Apprentice,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",0.79%,1.31%,2.92%,5.91%,4.44%,3.92%,2.07%,0.98%,,,,,,,,,
+Male,FALSE,Apprentice,Number of Records,29,48,107,217,163,144,76,36,,,,,,,,,
+Male,TRUE,Servant,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,,0.33%,0.60%,0.19%,0.03%,0.19%,0.05%,,
+Male,TRUE,Servant,Number of Records,,,,,,,,,,12,22,7,1,7,2,,
+Male,TRUE,Apprentice,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,,0.71%,0.93%,0.46%,0.16%,0.27%,0.05%,0.03%,
+Male,TRUE,Apprentice,Number of Records,,,,,,,,,,26,34,17,6,10,2,1,
+Male,*,Servant,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,0.57%,,,,,,,,
+Male,*,Servant,Number of Records,,,,,,,,,21,,,,,,,,
+Male,*,Apprentice,"% of Total Number of Records along Bound As, Total Years Indentured (bin)",,,,,,,,,0.95%,,,,,,,,
+Male,*,Apprentice,Number of Records,,,,,,,,,35,,,,,,,,

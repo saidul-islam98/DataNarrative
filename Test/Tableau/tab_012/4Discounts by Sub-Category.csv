@@ -1,0 +1,18 @@
+Discount Status,In / Out of Discounted Order IDs,Sub-Category,Avg. Discount,Profit
+Discounted,In,Binders,47.80%,"-$9,106"
+Discounted,In,Machines,40.90%,"-$23,750"
+Discounted,In,Appliances,39.80%,"-$5,051"
+Discounted,In,Furnishings,34.30%,"-$3,786"
+Discounted,In,Tables,33.70%,"-$31,006"
+Discounted,In,Bookcases,28.70%,"-$9,552"
+Discounted,In,Copiers,23.90%,"$20,062"
+Discounted,In,Phones,23.80%,"$10,139"
+Discounted,In,Chairs,21.70%,"$4,657"
+Discounted,In,Paper,20.00%,"$8,727"
+Discounted,In,Storage,20.00%,"-$4,245"
+Discounted,In,Accessories,20.00%,"$6,648"
+Discounted,In,Art,20.00%,"$1,151"
+Discounted,In,Supplies,20.00%,"-$2,904"
+Discounted,In,Fasteners,20.00%,$298
+Discounted,In,Envelopes,20.00%,"$1,989"
+Discounted,In,Labels,20.00%,"$1,130"
