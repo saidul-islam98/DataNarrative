@@ -1,0 +1,8 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Ethnicity,Ethnicity.1,Ethnicity.2,Ethnicity.3,Ethnicity.4,Ethnicity.5,Ethnicity.6,Ethnicity.7
+percent %,Safety,Variable,Year,Safety,,All,Asian (inc. Pacific Islander 2001-2013),Black/African American,Latino/a,White,Mixed race,Middle Eastern (2015 onwards),Pacific Islander (2015 onwards)
+%,Not safe,Perceived safety during day,2017,Not safe,Avg. percents,18.22,38.28,41.26,47.39,25.53,39.19,,
+%,Not safe,Perceived safety during day,2017,Not safe,Avg. percents_lcl,15.66,32.03,30.31,38.03,21.72,26.42,,
+%,Not safe,Perceived safety during day,2017,Not safe,Avg. percents_ucl,20.78,44.52,52.21,56.74,29.35,51.96,,
+%,Safe,Perceived safety during day,2017,Safe,Avg. percents,81.78,61.72,58.74,52.61,74.47,60.81,88.45,71.84
+%,Safe,Perceived safety during day,2017,Safe,Avg. percents_lcl,79.22,55.48,47.79,43.26,70.65,48.04,75.89,47.33
+%,Safe,Perceived safety during day,2017,Safe,Avg. percents_ucl,84.34,67.97,69.69,61.97,78.28,73.58,101.02,96.35

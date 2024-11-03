@@ -1,0 +1,16 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,measure_suffix
+Ethnicity,Group,Year,Variable,%
+White,resident,2011-2015,Physician-Resident Ethnic Match,41.20
+White,physician,2013,Physician-Resident Ethnic Match,56.20
+Asian,resident,2011-2015,Physician-Resident Ethnic Match,33.50
+Asian,physician,2013,Physician-Resident Ethnic Match,20.60
+Black/African American,resident,2011-2015,Physician-Resident Ethnic Match,5.30
+Black/African American,physician,2013,Physician-Resident Ethnic Match,2.10
+Hispanic or Latino,resident,2011-2015,Physician-Resident Ethnic Match,15.30
+Hispanic or Latino,physician,2013,Physician-Resident Ethnic Match,2.60
+Native Hawaiian/ Pacific Islander,resident,2011-2015,Physician-Resident Ethnic Match,0.40
+Native Hawaiian/ Pacific Islander,physician,2013,Physician-Resident Ethnic Match,0.80
+American Indian and Alaskan Native,resident,2011-2015,Physician-Resident Ethnic Match,0.20
+American Indian and Alaskan Native,physician,2013,Physician-Resident Ethnic Match,0.50
+Other Race,resident,2011-2015,Physician-Resident Ethnic Match,0.50
+Other Race,physician,2013,Physician-Resident Ethnic Match,2.40

@@ -1,0 +1,21 @@
+Unnamed: 0,Unnamed: 1,Airport,Airport.1,Airport.2,Airport.3,Airport.4,Airport.5,Airport.6,Airport.7,Airport.8,Airport.9
+Carrier,,DAL,MDW,IAH,DFW,DEN,ATL,PHX,LAX,ORD,SFO
+AA,Avg. Flights count,,,471,"12,444",604,638,"2,166","2,841","4,658","1,038"
+AA,On Time,,,1,1,1,1,1,1,1,1
+B6,Avg. Flights count,,,,66,89,185,63,338,191,404
+B6,On Time,,,,1,1,1,1,1,1,1
+CO,Avg. Flights count,,,"5,885",192,442,125,302,688,593,457
+CO,On Time,,,1,1,1,1,1,1,1,1
+DL,Avg. Flights count,134,203,229,458,680,"18,607",629,"2,167",581,868
+DL,On Time,1,1,1,1,1,1,1,1,1,1
+HA,Avg. Flights count,,,,,,,30,120,,45
+HA,On Time,,,,,,,1,1,,1
+NK,Avg. Flights count,,,508,743,335,568,83,652,865,
+NK,On Time,,,1,1,1,1,1,1,1,
+UA,Avg. Flights count,,,"4,250",356,"4,291",223,505,"2,438","5,381","4,195"
+UA,On Time,,,1,1,1,1,1,1,1,1
+US,Avg. Flights count,,,420,567,395,453,"4,903",535,600,451
+US,On Time,,,1,1,1,1,1,1,1,1
+WN,Avg. Flights count,"4,280","6,741",,,"4,997","2,463","5,018","3,333",,"1,326"
+WN,On Time,1,1,,,1,1,1,1,,1
+YX,Avg. Flights count,,,"1,271",316,367,386,,,"1,574",

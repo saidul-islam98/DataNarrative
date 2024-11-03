@@ -1,0 +1,8 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,"% of Total Number of Records along **Loan Status Adjusted, **Default Vs Good-Standing",Loan Original Amount
+Cancelled,,Good,,Good,0%,$0M
+Chargedoff,Bad,,,Bad,11%,$77M
+Completed,,Good,,Good,33%,$236M
+Current,,Good,,Good,50%,$586M
+Defaulted,,,Risky,Risky,4%,$33M
+Delinquent,,,Risky,Risky,2%,$17M
+FinalPaymentInProgress,,Good,,Good,0%,$2M

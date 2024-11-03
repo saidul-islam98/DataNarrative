@@ -1,0 +1,5 @@
+Unnamed: 0,Solano County,Sonoma County,Contra Costa County,Alameda County,Napa County,Santa Clara County,San Mateo County,California,San Francisco County,Marin County
+US Gini,47.0,47.0,47.0,47.0,47.0,47.0,47.0,47.0,47.0,47.0
+est_corr,43.4,44.81,45.96,46.04,46.41,46.45,48.21,48.99,50.29,52.45
+lcl_corr,41.18,43.43,45.03,45.37,44.51,45.8,47.21,48.82,49.24,51.05
+ucl_corr,45.62,46.19,46.89,46.71,48.31,47.1,49.21,49.16,51.34,53.85

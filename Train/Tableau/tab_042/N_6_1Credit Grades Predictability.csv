@@ -1,0 +1,8 @@
+Unnamed: 0,Unnamed: 1,**Credit Grade Adjusted,**Credit Grade Adjusted.1,**Credit Grade Adjusted.2,**Credit Grade Adjusted.3,**Credit Grade Adjusted.4,**Credit Grade Adjusted.5,**Credit Grade Adjusted.6
+**Default Vs Good-Standing,,AA,A,B,C,D,E,HR
+Good,% of Total Number of Records along **Default Vs Good-Standing,98%,96%,94%,93%,85%,83%,75%
+Good,Number of Records,"5,264","13,992","14,715","17,016","12,140","8,096","5,222"
+Bad,% of Total Number of Records along **Default Vs Good-Standing,1%,2%,3%,4%,10%,12%,18%
+Bad,Number of Records,63,326,500,706,"1,395","1,131","1,215"
+Risky,% of Total Number of Records along **Default Vs Good-Standing,1%,2%,2%,3%,5%,6%,7%
+Risky,Number of Records,45,233,366,623,739,568,498

@@ -1,0 +1,21 @@
+Student_Occupation,Occupation,**Percent Bad performers,Avg. Borrower APR
+"Student - College Freshman, Student - College Graduate Student, Student - College Junior and 4 more",Student - College Freshman,37%,0.2432
+"Student - College Freshman, Student - College Graduate Student, Student - College Junior and 4 more",Student - College Graduate Student,11%,0.1992
+"Student - College Freshman, Student - College Graduate Student, Student - College Junior and 4 more",Student - College Junior,29%,0.2086
+"Student - College Freshman, Student - College Graduate Student, Student - College Junior and 4 more",Student - College Senior,20%,0.2042
+"Student - College Freshman, Student - College Graduate Student, Student - College Junior and 4 more",Student - College Sophomore,42%,0.2316
+"Student - College Freshman, Student - College Graduate Student, Student - College Junior and 4 more",Student - Community College,43%,0.2239
+"Student - College Freshman, Student - College Graduate Student, Student - College Junior and 4 more",Student - Technical School,44%,0.2206
+Non - Students,,23%,0.2025
+Non - Students,Accountant/CPA,12%,0.2096
+Non - Students,Administrative Assistant,20%,0.2407
+Non - Students,Analyst,11%,0.2014
+Non - Students,Architect,13%,0.1951
+Non - Students,Attorney,6%,0.1936
+Non - Students,Biologist,13%,0.2112
+Non - Students,Bus Driver,19%,0.2422
+Non - Students,Car Dealer,18%,0.218
+Non - Students,Chemist,14%,0.2091
+Non - Students,Civil Service,15%,0.2226
+Non - Students,Clergy,10%,0.2226
+Non - Students,Clerical,25%,0.2379
